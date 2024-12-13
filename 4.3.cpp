@@ -24,7 +24,7 @@ int main()
     {
         printf("So ban nhap chia het cho 5.\n");
     }
-    else
+    if(number %5 !=0 && number %3 !=0) 
 	{
 		printf("So ban nhap khong  chia het cho 5 va 3.\n");
 	} 
